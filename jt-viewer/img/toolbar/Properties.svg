@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px"
+	 y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<title>JT2GO_Icons_32px_Art_cmdProperties32</title>
+    <style type="text/css">
+	.st0{fill:#ffffff;}
+	.st1{fill:none;}
+</style>
+
+    <g>
+	<g>
+		<g>
+			<path class="st0" d="M32,32H0V0h16v4h16V32z M1,31h30V5H15V1H1V31z"/>
+		</g>
+        <g>
+			<rect x="12" y="11" class="st0" width="15" height="1"/>
+		</g>
+        <g>
+			<path class="st0" d="M9,13H5V9h4V13z M6,12h2v-2H6V12z"/>
+		</g>
+        <g>
+			<rect x="12" y="17" class="st0" width="15" height="1"/>
+		</g>
+        <g>
+			<path class="st0" d="M9,19H5v-4h4V19z M6,18h2v-2H6V18z"/>
+		</g>
+        <g>
+			<rect x="12" y="23" class="st0" width="15" height="1"/>
+		</g>
+        <g>
+			<path class="st0" d="M9,25H5v-4h4V25z M6,24h2v-2H6V24z"/>
+		</g>
+	</g>
+        <g>
+		<rect x="0" y="0" class="st1" width="32" height="32"/>
+	</g>
+</g>
+</svg>

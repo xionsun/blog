@@ -19,8 +19,29 @@
 }
 
 #subtitle {
-    font-family: Bad Script, -apple-system, system-ui, sans-serif;
+    font-size: 1.4em;
+    font-family: Zhi Mang Xing, -apple-system, system-ui, sans-serif;
     white-space: nowrap;
+    line-height: 1;
+    margin-top: 0.3em;
+    overflow: hidden;
+    border-right: .1em solid white;
+    opacity: 0;
+}
+
+@keyframes typing {
+    0% {
+        width: 0
+    }
+    55% {
+        width: 100%
+    }
+    80% {
+        width: 100%
+    }
+    100% {
+        width: 0
+    }
 }
 
 #footer {
